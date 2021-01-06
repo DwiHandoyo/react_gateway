@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_gateway/static/css/main.5fd17313.chunk.css",
+    "main.js": "/react_gateway/static/js/main.4832f103.chunk.js",
+    "main.js.map": "/react_gateway/static/js/main.4832f103.chunk.js.map",
+    "runtime-main.js": "/react_gateway/static/js/runtime-main.d053c3ad.js",
+    "runtime-main.js.map": "/react_gateway/static/js/runtime-main.d053c3ad.js.map",
+    "static/js/2.284b49cd.chunk.js": "/react_gateway/static/js/2.284b49cd.chunk.js",
+    "static/js/2.284b49cd.chunk.js.map": "/react_gateway/static/js/2.284b49cd.chunk.js.map",
+    "static/js/3.56e9027e.chunk.js": "/react_gateway/static/js/3.56e9027e.chunk.js",
+    "static/js/3.56e9027e.chunk.js.map": "/react_gateway/static/js/3.56e9027e.chunk.js.map",
+    "index.html": "/react_gateway/index.html",
+    "static/css/main.5fd17313.chunk.css.map": "/react_gateway/static/css/main.5fd17313.chunk.css.map",
+    "static/js/2.284b49cd.chunk.js.LICENSE.txt": "/react_gateway/static/js/2.284b49cd.chunk.js.LICENSE.txt",
+    "static/media/ADL.a5bcdb3f.png": "/react_gateway/static/media/ADL.a5bcdb3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d053c3ad.js",
+    "static/js/2.284b49cd.chunk.js",
+    "static/css/main.5fd17313.chunk.css",
+    "static/js/main.4832f103.chunk.js"
+  ]
+}
